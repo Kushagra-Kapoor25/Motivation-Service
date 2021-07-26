@@ -21,5 +21,5 @@ if day == 0:
         connection.sendmail(
             from_addr=MY_EMAIL,
             to_addrs="rajkhanna512@yahoo.com",
-            msg=f"Subject:Tuesday Motivation\n\n{quote}"
+            msg=f"Subject:Monday Motivation\n\n{quote}"
         )
